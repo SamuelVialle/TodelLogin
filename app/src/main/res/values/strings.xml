@@ -5,4 +5,12 @@
     <string name="enter_password">Enter password</string>
     <string name="confirm_password">Confirm password</string>
     <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="reset_password">Reset password</string>
+    <string name="don_t_have_account">Don\'t have account</string>
+    <string name="signup">Sign Up</string>
+    <string name="reset_password_instruction">Reset password instructions has been sent to : %1$s</string>
+    <string name="enter_correct_email">Enter correct Email</string>
+    <string name="retry">Retry</string>
+    <string name="close">Close</string>
 </resources>
