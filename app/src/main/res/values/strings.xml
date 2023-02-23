@@ -13,4 +13,5 @@
     <string name="enter_correct_email">Enter correct Email</string>
     <string name="retry">Retry</string>
     <string name="close">Close</string>
+    <string name="login_failed">Login failed : %1$s</string>
 </resources>
